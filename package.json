@@ -1,21 +1,13 @@
 {
-  "name": "node-mongodb-blog",
+  "name": "Ablog",
   "version": "1.0.0",
-  "description": "node-mongodb-blog",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zzyifan/node-mongodb-blog.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zzyifan/node-mongodb-blog/issues"
-  },
-  "homepage": "https://github.com/zzyifan/node-mongodb-blog#readme",
+  "description": "Ablog node mongodb",
   "dependencies": {
     "config-lite": "^2.0.0",
     "connect-flash": "^0.1.1",
